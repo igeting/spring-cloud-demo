@@ -21,7 +21,7 @@
     <modules>
         <module>eureka</module>
         <module>provide</module>
-        <module>consum</module>
+        <module>consume</module>
     </modules>
 
     <properties>

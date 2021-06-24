@@ -1,10 +1,10 @@
-package com.example.consum;
+package com.example.consume;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConsumApplicationTests {
+class ConsumeApplicationTests {
 
     @Test
     void contextLoads() {

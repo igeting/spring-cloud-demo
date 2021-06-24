@@ -8,10 +8,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>consum</artifactId>
+    <artifactId>consume</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>consum</name>
-    <description>eureka consum</description>
+    <name>consume</name>
+    <description>eureka consume</description>
 
     <properties>
         <java.version>1.8</java.version>

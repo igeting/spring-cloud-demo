@@ -1,6 +1,6 @@
 spring:
   application:
-    name: consum
+    name: consume
 
 server:
   port: 8002
