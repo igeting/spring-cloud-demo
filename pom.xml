@@ -16,10 +16,12 @@
     <packaging>pom</packaging>
 
     <name>demo</name>
-    <description>Demo project for Spring Boot</description>
+    <description>spring cloud demo</description>
 
     <modules>
         <module>eureka</module>
+        <module>provide</module>
+        <module>consum</module>
     </modules>
 
     <properties>
